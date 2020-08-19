@@ -1,0 +1,22 @@
+{
+  "name": "gallery256-server",
+  "version": "1.0.0",
+  "description": "server for gallery256",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isometries/Gallery256-Server.git"
+  },
+  "author": "isometries",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Isometries/Gallery256-Server/issues"
+  },
+  "homepage": "https://github.com/Isometries/Gallery256-Server#readme",
+  "dependencies": {
+    "mongoose": "^5.10.0"
+  }
+}
